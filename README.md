@@ -1,2 +1,2 @@
 # scale_tag_img
-Rescales the images.
+Re-scales the images.

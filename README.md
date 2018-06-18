@@ -14,7 +14,8 @@ These instructions will get you a copy of the project up and running on your loc
 * [python](https://www.python.org/download/releases/2.7/)
 * optional (not required if you want to resize image other than Apriltag)
     >  [apriltag library](https://pypi.org/project/apriltag/)
-    > [apriltagpictures] https://april.eecs.umich.edu/media/apriltag/tag36h11.tgz
+    >
+    >[apriltagpictures] https://april.eecs.umich.edu/media/apriltag/tag36h11.tgz
         
         **Note : above link provide link to 36h11 family.**
 
